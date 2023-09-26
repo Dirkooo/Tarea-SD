@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./sd/t1/cache server/app/search"
+    ]
+}
